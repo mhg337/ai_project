@@ -35,4 +35,4 @@
       cv2.imshow("Image", img)
       cv2.waitKey(1)
 
-  https://github.com/mhg337/ai_project/issues/1#issue-2008038926
+[  https://github.com/mhg337/ai_project/issues/1#issue-2008038926](https://github.com/mhg337/ai_project/assets/144089001/6a8ea2b7-2b94-4dad-a51b-fcf9c8d8a313)https://github.com/mhg337/ai_project/assets/144089001/6a8ea2b7-2b94-4dad-a51b-fcf9c8d8a313
